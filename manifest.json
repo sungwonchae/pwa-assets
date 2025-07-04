@@ -1,0 +1,16 @@
+{
+  "name": "SIOC 피킹 시스템",
+  "short_name": "SIOC 피킹",
+  "start_url": "https://script.google.com/a/macros/kurlycorp.com/s/AKfycbw4XOKAg13bqFjXKZ9BvaaLBntTzzpDG699ETGiBHtHst9Zpo28VKDYUVyxMKAC8uf-/exec",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "description": "SIOC 물류센터 피킹 시스템",
+  "icons": [
+    {
+      "src": "sioc_logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
