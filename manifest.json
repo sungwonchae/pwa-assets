@@ -1,7 +1,7 @@
 {
   "name": "SIOC 피킹 시스템",
   "short_name": "SIOC 피킹",
-  "start_url": "https://script.google.com/a/macros/kurlycorp.com/s/AKfycbzT37PwFZcUjuzfP-HVzatWZrsGuLgjrHtlNgkFo-PmQDZlEg1hXbunn0lwZdZriP16/exec",
+  "start_url": "https://script.google.com/macros/s/AKfycbygczNRl7C3-BTDcLi_jNCNjKZUXbEmLGoOl30FTZ6AFrC8vXhaG7mgNmIZnsJbmu8/exec",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
